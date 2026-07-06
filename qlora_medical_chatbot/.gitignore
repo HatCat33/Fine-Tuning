@@ -1,0 +1,48 @@
+# 大文件 & 数据
+*.csv
+*.parquet
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.tar.gz
+*.zip
+
+# 模型权重
+/root/
+/models/
+/checkpoints_self_cong/
+checkpoint-*/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# 环境
+.env
+.venv/
+venv/
+.conda/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# 日志
+/logs/
+*.log
