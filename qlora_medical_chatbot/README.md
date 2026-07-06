@@ -129,3 +129,11 @@ BitsAndBytesConfig(
 - [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes) — 量化库
 - [Chinese-medical-dialogue-data](https://github.com/Toyhom/Chinese-medical-dialogue-data) — 中文医疗对话数据集
 - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) —— QLoRA 论文
+
+## 其他数据集
+- https://github.com/CLUEbenchmark/CLUEDatasetSearch
+- https://github.com/brightmart/nlp_chinese_corpus
+- https://github.com/GanjinZero/awesome_Chinese_medical_NLP
+- https://github.com/smoothnlp/FinancialDatasets
+- https://github.com/juand-r/entity-recognition-datasets
+- https://github.com/SophonPlus/ChineseNlpCorpus
